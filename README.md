@@ -1,2 +1,1 @@
-# mit.github.io
-0
+MYBOXES
